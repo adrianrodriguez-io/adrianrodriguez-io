@@ -25,7 +25,7 @@ SQL Server | MySQL
 
 ### NoSQL
 
-<img width='40' height='40' src='[https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxg-qi1BMx5xTZhRg60L6QomBEeILBcyl6pwfXtquiDg&s)'></img>
+<img width='40' height='40' src='https://www.svgrepo.com/show/303232/mongodb-logo.svg'></img>
 
 MongoDB
 
