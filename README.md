@@ -12,11 +12,11 @@ adrianrodriguez-io/adrianrodriguez-io is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-# Technologies
+## Technologies
 
 Over the years I have been using the following different technologies for some professional and personal projects.
 
-## Databases 
+### Databases 
 
 ### Relational
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
