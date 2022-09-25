@@ -30,6 +30,12 @@ SQL Server | MySQL
 
 MongoDB
 
+### Graph Databases
+
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg'></img>
+
+Neo4j (Learning in process)
+
 ## Business Intelligence 
 
 <img width='40' height='40' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2o-r0ONVA0CO1sJXCUNWP21QbxCGIbuzL9RsrJ2mrA&s'></img>
