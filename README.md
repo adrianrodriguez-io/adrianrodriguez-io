@@ -17,10 +17,17 @@ Over the years I hace been using the following different technologies for some p
 
 ## Databases 
 
+### Relational
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'></img>
 
 SQL Server | MySQL
+
+### NoSQL
+
+<img width='40' height='40' src='[https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxg-qi1BMx5xTZhRg60L6QomBEeILBcyl6pwfXtquiDg&s)'></img>
+
+MongoDB
 
 ## Business Intelligence 
 
