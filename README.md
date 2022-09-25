@@ -25,7 +25,7 @@ SQL Server | MySQL
 
 ### NoSQL
 
-<img width='40' height='40' src='https://www.svgrepo.com/show/303232/mongodb-logo.svg'></img>
+<img width='40' height='40' src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg'></img>
 
 MongoDB
 
