@@ -5,7 +5,6 @@
 👋 Hi, I’m Adrian, a data analytics passionate and software engineering enthusiast.
 <br>
 👀 I’m interested in posting in Github my own personal projects where you could find interesting ways of doing data analysis, data visualizations, data science, machine learning and software engineering.
-<!--🌱 I’m currently learning about nodejs, tensorflowjs.-->
 <br>
 💞️ I’m looking to collaborate with those who might be interested in the topics mentioned above. 
 <!---
