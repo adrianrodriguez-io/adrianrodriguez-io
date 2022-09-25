@@ -18,25 +18,25 @@ Over the years I have been using the following different technologies for some p
 
 ### Databases 
 
-### Relational
+#### Relational
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'></img>
 
 SQL Server | MySQL
 
-### NoSQL
+#### NoSQL
 
 <img width='40' height='40' src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg'></img>
 
 MongoDB
 
-### Graph Databases
+#### Graph Databases
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg'></img>
 
 Neo4j (Learning in process)
 
-## Business Intelligence 
+### Business Intelligence 
 
 <img width='40' height='40' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2o-r0ONVA0CO1sJXCUNWP21QbxCGIbuzL9RsrJ2mrA&s'></img>
 <img width='40' height='40' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCTCvv2IwPQ7QDAUctPO8L5TzTMqdPEiMc7ncabtrog&s'></img>
@@ -45,7 +45,7 @@ Neo4j (Learning in process)
 
 Power BI | Qlikview | Microstrategy | Tableau
 
-## Data Science/Machine learning
+### Data Science/Machine learning
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg'></img>
 <img width='40' height='40' src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png></img>
@@ -53,7 +53,7 @@ Power BI | Qlikview | Microstrategy | Tableau
 
 R | Sckit-Learn | Tensorflow (Learning TF In process)
 
-## Programming
+### Programming
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'></img>
