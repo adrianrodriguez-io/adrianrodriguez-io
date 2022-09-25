@@ -48,7 +48,7 @@ Power BI | Qlikview | Microstrategy | Tableau
 ### Data Science/Machine learning
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg'></img>
-<img width='40' height='40' src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png></img>
+<img width='60' height='40' src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'></img>
 
 R | Sckit-Learn | Tensorflow (Learning TF In process)
