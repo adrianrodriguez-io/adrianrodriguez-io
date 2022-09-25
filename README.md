@@ -32,7 +32,7 @@ MongoDB
 
 ### Graph Databases
 
-<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg'></img>
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg'></img>
 
 Neo4j (Learning in process)
 
