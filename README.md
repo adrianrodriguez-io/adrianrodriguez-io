@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 Over the years I hace been using the following different technologies for some professional and personal projects.
 
 ## Databases 
-<img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
-<img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'></img>
+
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'></img>
 
 SQL Server | MySQL
 
@@ -42,8 +43,9 @@ R | Python | Tensorflow
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'></img>
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg'></img>
 
-HTML | CSS | Javascript | NodeJS | PHP
+HTML | CSS | Bootstrap | Javascript | NodeJS | PHP
