@@ -41,10 +41,10 @@ Power BI | Qlikview | Microstrategy | Tableau
 ## Data Science/Machine learning
 
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg'></img>
-<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'></img>
+<img width='40' height='40' src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'></img>
 
-R | Python | Tensorflow (Learning TF In process)
+R | Sckit-Learn | Tensorflow (Learning TF In process)
 
 ## Programming
 
@@ -54,5 +54,6 @@ R | Python | Tensorflow (Learning TF In process)
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg'></img>
+<img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'></img>
 
-HTML | CSS | Bootstrap | Javascript | NodeJS | PHP
+HTML | CSS | Bootstrap | Javascript | NodeJS | PHP | Python
