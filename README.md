@@ -37,7 +37,7 @@ Power BI | Qlikview | Microstrategy | Tableau
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'></img>
 
-R | Python | Tensorflow
+R | Python | Tensorflow (Learning TF In process)
 
 ## Programming
 
