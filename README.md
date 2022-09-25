@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Technologies
 
-Over the years I hace been using the following different technologies for some professional and personal projects.
+Over the years I have been using the following different technologies for some professional and personal projects.
 
 ## Databases 
 
