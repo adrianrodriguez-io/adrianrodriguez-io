@@ -21,8 +21,9 @@ Over the years I have been using the following different technologies for some p
 #### Relational
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'></img>
 <img width='40' height='40' src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'></img>
+<img width='40' height='40' src='[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)'></img>
 
-SQL Server | MySQL
+SQL Server | MySQL | PostgreSQL
 
 #### NoSQL
 
