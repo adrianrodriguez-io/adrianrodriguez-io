@@ -38,8 +38,10 @@ Neo4j (Learning in process)
 
 ### Data Inegration
 <img width='40' height='40' src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.wsimg.com%2Fisteam%2Fip%2Ff6730bd5-4e34-489f-b1db-dbcdf090c3c4%2FTraining_Icons_training_icon_ssis_lightblue.png%2F%3A%2Fcr%3Dt%3A0%2525%2Cl%3A0%2525%2Cw%3A100%2525%2Ch%3A100%2525%2Frs%3Dw%3A400%2Ccg%3Atrue&imgrefurl=https%3A%2F%2Fdataminerz.net%2Fssis&tbnid=PPXS_CLL6k4njM&vet=12ahUKEwjlqpzD7fT6AhUIphoKHVF_DzsQMygKegUIARDRAQ..i&docid=bb5HpEpqPV9cLM&w=400&h=319&q=ssis%20icon&ved=2ahUKEwjlqpzD7fT6AhUIphoKHVF_DzsQMygKegUIARDRAQ'></img>
-<img width='40' height='40' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fcwiki.apache.org%2Fconfluence%2Fdisplay%2FAIRFLOW%2FAirflow%2Blogos&psig=AOvVaw3H7owBQmsX_mgQ4kO1gMHh&ust=1666563155703000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCMz9jt9PoCFQAAAAAdAAAAABAE'></img>
-SSIS (Integration Services) | Airflow (Learning)
+<img width='40' height='40' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F27%2Fdata-factory&psig=AOvVaw0rAYKW3XNGoXFcYz9IGIL0&ust=1666563294542000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiA5Zru9PoCFQAAAAAdAAAAABAE'></img>
+<img width='40' height='40' src='[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcwiki.apache.org%2Fconfluence%2Fdisplay%2FAIRFLOW%2FAirflow%2Blogos&psig=AOvVaw3H7owBQmsX_mgQ4kO1gMHh&ust=1666563155703000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCMz9jt9PoCFQAAAAAdAAAAABAE](https://airflow.apache.org/)'></img>
+<br>
+SSIS (Integration Services) | Azure Data Factory | Airflow (Learning)
 
 ### Business Intelligence 
 
