@@ -3,7 +3,7 @@
 ¡Bienvenido a mi GitHub! Me apasiona el **análisis de datos** y soy un entusiasta de la **ingeniería de software**.
 
 ## 👨‍💻 Sobre mí
-Hola, soy Adrián — una persona orientada a los datos que disfruta explorar, construir y compartir proyectos relacionados con:
+Hola, soy Adrián — una persona orientada a explorar, construir y compartir proyectos relacionados con:
 - Análisis y visualización de datos  
 - Machine learning e IA.
 - Ingenieria de datos.
