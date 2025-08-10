@@ -4,11 +4,11 @@
 
 ## 👨‍💻 Sobre mí
 Hola, soy Adrián — una persona orientada a los datos que disfruta explorar, construir y compartir proyectos relacionados con:
-- 📊 Análisis y visualización de datos  
-- 🤖 Machine learning e IA.
+- Análisis y visualización de datos  
+- Machine learning e IA.
 - Ingenieria de datos.
-- 🛠️ Ingeniería y desarrollo de software
 - Analitica textual
+- Ingeniería y desarrollo de software
 - Proyectos Maker
 
 Me considero un apasionado de la analitica de datos y la IA, si bien entre mis hobbies estan el desarrollar proyectos maker con los que poner en practica mi creatividad. 
