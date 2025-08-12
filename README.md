@@ -1,4 +1,4 @@
-# 💻 ¡Hola, Mundo! Soy Adrián
+# 💻 ¡Hola, Mundo! 
 
 ¡Bienvenido a mi GitHub! Me apasiona el **análisis de datos** y soy un entusiasta de la **ingeniería de software**.
 
