@@ -24,7 +24,7 @@ Utilizo GitHub para documentar y compartir mis proyectos personales y colaborati
 ### 📂 Bases de datos
 - **Relacionales:** SQL Server, MySQL, PostgreSQL  
 - **NoSQL:** MongoDB  
-- **Bases de datos gráficas:** Neo4j *(aprendiendo actualmente)*
+- **Bases de datos de grafo:** Neo4j *(aprendiendo actualmente)*
 
 ### 🔄 Integración de datos
 - SSIS (SQL Server Integration Services)  
